@@ -1,1 +1,1 @@
-This is the homepage of our project
+This is the homepage of our project.
